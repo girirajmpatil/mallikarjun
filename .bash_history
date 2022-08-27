@@ -290,3 +290,49 @@ ls
 cat my_new_file1 
 docker images
 docker ps
+ls
+sh my_script.sh
+vi my_script.sh
+sh my_script.sh
+vi my_script.sh
+sh my_script.sh
+ls
+git init
+git remote https://github.com/girirajmpatil/mallikarjun.git
+git remote "https://github.com/girirajmpatil/mallikarjun.git"
+git remote add origin "https://github.com/girirajmpatil/mallikarjun.git"
+ls
+git add .
+git push
+git push origin master
+git add .
+git commit 
+git config
+git commit 
+git add remote master origin
+git remote add orgin master
+ls
+git status
+git add my_script.sh
+git status
+git add my_script.sh
+git commit
+git commit -m "updated file"
+git login
+git commit
+git commit -m "updated file"
+git staus
+git status
+git add .
+git commit -m "updated file"
+git push my_script.sh
+git remote add orgin master
+git push my_script.sh
+git push my_script.sh "https://github.com/girirajmpatil/mallikarjun.git"
+git push origin master
+git pull
+logout
+ls
+vi my_script.sh
+sh my_script.sh
+vi my_script.sh
